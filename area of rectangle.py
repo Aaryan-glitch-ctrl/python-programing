@@ -1,4 +1,4 @@
-pi = 3.14
+
 r = 2
-area= math.pi (r*r)
+area = 22/7*r*r
 print(area)
